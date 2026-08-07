@@ -1,35 +1,45 @@
-# 🧠⚡ Logic Box
-
 <div align="center">
 
-<img src="assets/logic-animation.gif" width="700">
+# 🧠⚡ FUNDAMENTAL BOOSTER ⚡🧠
+
+<img src="assets/hero-animation.gif" width="850">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2500&pause=700&color=00FFCC&center=true&vCenter=true&width=800&lines=🧠+LOGIC+BOX;Think+%7C+Solve+%7C+Code;Build+Strong+Programming+Logic">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Welcome+To+Fundamental+Booster;Where+Logic+Meets+Python;Think+%7C+Code+%7C+Create+🚀">
+
+<br>
+
+<img src="assets/python-neon.gif" width="250">
 
 </div>
 
 ---
 
-## 🚀 Logic Box Journey
+# 🧠🔥 LOGIC BOX
 
 <div align="center">
 
-```
-              🧠 LOGIC BOX
+<img src="assets/logic-brain.gif" width="450">
 
-        ┌─────────────────────┐
-        │  💡 Problem          │
-        │        ↓            │
-        │  🔍 Analyze         │
-        │        ↓            │
-        │  🧩 Build Logic     │
-        │        ↓            │
-        │  🐍 Write Python    │
-        │        ↓            │
-        │  🚀 Get Solution    │
-        └─────────────────────┘
+<br>
+
+## ✨ Upgrade Your Programming Mindset ✨
+
+```
+                🧠 LOGIC ENGINE
+
+        ╔══════════════════════╗
+        ║   💡 THINK           ║
+        ║        ↓             ║
+        ║   🔍 ANALYZE         ║
+        ║        ↓             ║
+        ║   🧩 CREATE LOGIC    ║
+        ║        ↓             ║
+        ║   🐍 WRITE PYTHON    ║
+        ║        ↓             ║
+        ║   🚀 SOLVE PROBLEM   ║
+        ╚══════════════════════╝
 
 ```
 
@@ -37,62 +47,109 @@
 
 ---
 
-# 🔥 Logic Practice Zone
+# 🚀 Logic Training Arena
 
 <div align="center">
 
-<img src="assets/brain-code.gif" width="400">
+<img src="assets/coding-animation.gif" width="700">
 
 </div>
 
 
-### 🧩 Topics Covered
+## 🧩 What You Will Master
 
-✅ Number Logic  
-✅ Pattern Programs  
-✅ Loop Challenges  
-✅ Mathematical Thinking  
-✅ Problem Solving  
-✅ Algorithm Building  
-✅ Real Coding Practice  
-
+| 🧠 Skill | 🚀 Level |
+|---|---|
+| Number Logic | ⭐⭐⭐⭐⭐ |
+| Pattern Programs | ⭐⭐⭐⭐⭐ |
+| Loop Thinking | ⭐⭐⭐⭐⭐ |
+| Algorithm Skills | ⭐⭐⭐⭐ |
+| Problem Solving | ⭐⭐⭐⭐⭐ |
+| Python Coding | ⭐⭐⭐⭐⭐ |
 
 ---
 
-# 🐍 Logic Example
+# ⚡ Logic Challenge Example
 
 ```python
-number = 10
+# Find even or odd number
+
+number = 25
 
 if number % 2 == 0:
-    print("Even Number 🚀")
+    print("Even Number 🟢")
 else:
-    print("Odd Number")
+    print("Odd Number 🔴")
 ```
 
 ### Output
 
 ```
-Even Number 🚀
+Odd Number 🔴
 ```
+
+---
+
+# 🌌 Learning Flow
+
+<div align="center">
+
+```
+🐣 Beginner
+     |
+     ↓
+🐍 Python Basics
+     |
+     ↓
+🧠 Logic Building
+     |
+     ↓
+⚡ Problem Solving
+     |
+     ↓
+🚀 Real Projects
+     |
+     ↓
+🏆 Developer Mindset
+```
+
+</div>
+
+---
+
+# 🔥 Daily Coding Motivation
+
+<div align="center">
+
+<img src="assets/fire-code.gif" width="500">
+
+```
+"Every Expert Programmer
+was once a Beginner."
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="assets/neon-line.gif" width="800">
+<img src="assets/neon-divider.gif" width="900">
 
-## 💻 Keep Thinking  
-## 🧠 Keep Building Logic  
-## 🚀 Keep Coding  
+<br>
 
-<img src="assets/footer-animation.gif" width="500">
-
-
-### Created By
+## 👨‍💻 Created With Passion By
 
 # ✨ Nikhil Patil ✨
 
-🐍 Python Developer | Logic Builder | Coding Enthusiast
+<img src="assets/profile-animation.gif" width="180">
+
+### 🐍 Python Learner | Logic Builder | Developer
+
+<br>
+
+<img src="assets/footer-wave.gif" width="900">
+
+## 🚀 Keep Learning • Keep Coding • Keep Growing
 
 </div>
